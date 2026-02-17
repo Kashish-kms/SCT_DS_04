@@ -103,12 +103,6 @@ Potential extensions of this project include:
 
 ---
 
-## Author
 
-Kashish Sonawane
-
----
-
-## License
 
 This project is for educational and research purposes.
