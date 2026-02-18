@@ -92,16 +92,6 @@ These findings can support road safety improvements and traffic management strat
 
 ---
 
-## Future Work
-
-Potential extensions of this project include:
-
-- Accident severity prediction using machine learning  
-- Risk classification models  
-- Clustering-based hotspot detection  
-- Interactive dashboards  
-
----
 
 
 
